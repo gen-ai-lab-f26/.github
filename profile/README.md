@@ -49,6 +49,11 @@ Working solo? Do steps 3 and 5 yourself and skip step 4.
 
 The [Final Project brief](https://www.icerynk.com/c/fa26-tech-ub-41-7w2-001/content/final-project-ai-product-and-demo) in Icerynk has the full rubric.
 
+Your team shares that score. Two things are yours alone:
+
+- **Commit to your team's repo on at least two different days every week** (Nov 17 to 23, Nov 24 to 30, Dec 1 to 7). Each week you miss takes 5 points off your own score. Set your Git name and email first (your repo's README shows how) so your commits count as yours.
+- **Fill in the [teammate feedback form](https://docs.google.com/forms/d/1agr3lQlfyCaSoWuCU_0FMFTNvcG57XLexx5sPifmSKw/viewform)** once for each teammate by Wednesday, December 9 at 5:00 PM. It's private. Skipping it takes 5 points off your own score, and what your teammates report can move your score up or down.
+
 ## Keep secrets out of GitHub
 
 Your repo is public. Put API keys in a local `.env` file; the template already keeps `.env` out of Git. Never put a key in code, a screenshot or a commit. If a key leaks, revoke it with the service that issued it and make a new one.
